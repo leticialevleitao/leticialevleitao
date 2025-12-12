@@ -1,5 +1,5 @@
 ## Hi, I’m @leticialevleitao 🌸
-- 👀 I’m interested in ESG and Product Management
+- 👀 I’m interested in Data Science and Product Management
 - 💞️ I’m looking forward to collaborate on social innovation projects
 - 📫 How to reach me ? Email me! > lasl@cin.ufpe.br
 
